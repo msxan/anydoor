@@ -2,6 +2,11 @@
 logs
 *.log
 npm-debug.log*
+node_modules/
+*.swp
+.idea/
+.DS_Srore
+build/
 yarn-debug.log*
 yarn-error.log*
 
